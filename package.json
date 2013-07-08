@@ -1,9 +1,13 @@
 {
-  "name": "gtfs",
-  "description": "Download GTFS transit data into mongodb and expose routes, stops, times and more",
+  "name": "gtfs-2",
+  "description": "Forked from gtfs-node. Download GTFS transit data into mongodb and expose routes, stops, times and more",
   "version": "0.0.4",
-  "author": "Brendan Nee <me@bn.ee>",
+	"author": "Julius Cebreros <me@juliuscebreros.com>",
   "contributors": [
+		{
+			"name": "Brendan Nee",
+			"email": "me@bn.ee"
+		},
     {
       "name": "Jason Schapiro",
       "email": "yono38@gmail.com"
