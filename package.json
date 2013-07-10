@@ -1,7 +1,7 @@
 {
   "name": "gtfs-2",
   "description": "Forked from gtfs-node. Download GTFS transit data into mongodb and expose routes, stops, times and more",
-  "version": "0.0.4.1",
+  "version": "0.0.5",
 	"author": "Julius Cebreros <me@juliuscebreros.com>",
   "contributors": [
 		{
@@ -38,6 +38,6 @@
     , "unzip": "= 0.1.x"
   },
   "keywords": ["transit","gtfs","transportation"],
-  "repository": "git://github.com/brendannee/node-gtfs",
+  "repository": "git://github.com/zerojuan/node-gtfs",
   "main": "index"
 }
